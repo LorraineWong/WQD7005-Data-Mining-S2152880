@@ -1,0 +1,157 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.2,
+    "blood_pressure": "128/82",
+    "weight": 70.5,
+    "blood_glucose": 112,
+    "clinical_note": "Patient stable post-surgery. Vitals within normal range. Recovery progressing as expected; no signs of complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 37.1,
+    "blood_pressure": "125/80",
+    "weight": 70.4,
+    "blood_glucose": 115,
+    "clinical_note": "Continued improvement observed. No fever or signs of infection. Patient tolerating diet and mobilizing with assistance."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 95,
+    "heart_rate": 84,
+    "blood_pressure": "130/85",
+    "weight": 70.3,
+    "blood_glucose": 118,
+    "clinical_note": "Mild tachycardia noted but no clinical concern. Patient recovering well and pain managed effectively."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "126/83",
+    "weight": 70.2,
+    "blood_glucose": 110,
+    "clinical_note": "Stable recovery continues. Ambulation improving. No signs of infection or adverse reactions to treatment."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 94,
+    "heart_rate": 86,
+    "temperature": 37.3,
+    "blood_pressure": "135/88",
+    "weight": 70.2,
+    "clinical_note": "Slightly elevated heart rate and pressure, likely due to physical activity. No clinical concerns; patient remains stable."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 37.0,
+    "blood_pressure": "127/82",
+    "weight": 70.1,
+    "blood_glucose": 114,
+    "clinical_note": "Patient shows steady progress post-surgery. Pain levels reducing; vitals within acceptable range."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 95,
+    "heart_rate": 81,
+    "temperature": 37.2,
+    "blood_pressure": "129/84",
+    "weight": 70.1,
+    "blood_glucose": 117,
+    "clinical_note": "Recovery stable; no complications noted. Patient participating in light physical therapy with minimal discomfort."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 77,
+    "blood_pressure": "124/80",
+    "weight": 70.0,
+    "blood_glucose": 110,
+    "clinical_note": "Patient reports feeling improved. Normal vitals and mobility progressing well. No fever or signs of infection."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 36.9,
+    "blood_pressure": "128/83",
+    "weight": 70.0,
+    "blood_glucose": 113,
+    "clinical_note": "Recovery continues as expected. Patient tolerating activity and maintaining stable vital signs."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 94,
+    "heart_rate": 88,
+    "temperature": 37.5,
+    "blood_pressure": "132/86",
+    "weight": 70.1,
+    "clinical_note": "Minor elevation in vitals noted but remains within acceptable limits. Patient experiencing mild discomfort post-activity."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.1,
+    "blood_pressure": "126/82",
+    "weight": 69.9,
+    "blood_glucose": 112,
+    "clinical_note": "Patient progressing steadily. Vitals normalized after minor fluctuations; continues to tolerate recovery regimen."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 37.0,
+    "blood_pressure": "124/80",
+    "weight": 69.8,
+    "blood_glucose": 109,
+    "clinical_note": "Stable recovery with no complications. Patient reports increased energy and improved mobility."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.2,
+    "blood_pressure": "127/83",
+    "weight": 69.8,
+    "blood_glucose": 115,
+    "clinical_note": "Patient remains well and is nearing expected recovery milestones. Pain and vitals remain well-controlled."
+  },
+  {
+    "date": "2025-01-14",
+    "oxygen_saturation": 95,
+    "heart_rate": 84,
+    "temperature": 37.3,
+    "blood_pressure": "130/85",
+    "weight": 69.7,
+    "clinical_note": "Minor elevation in vitals following activity; no concerns. Patient continues to meet recovery goals."
+  },
+  {
+    "date": "2025-01-15",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 36.9,
+    "blood_pressure": "122/78",
+    "weight": 69.6,
+    "blood_glucose": 108,
+    "clinical_note": "Patient demonstrates excellent progress. Vitals stable and mobility significantly improved. Discharge planning initiated."
+  },
+  {
+    "date": "2025-01-16",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "temperature": 37.0,
+    "blood_pressure": "120/77",
+    "weight": 69.6,
+    "blood_glucose": 106,
+    "clinical_note": "Patient ready for discharge. Recovery complete with no complications. Final monitoring confirms stable vitals and full mobility."
+  }
+]

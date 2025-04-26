@@ -1,0 +1,129 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "125/80",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery. Vitals within acceptable range. Slightly elevated blood glucose, monitoring advised."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 80,
+    "temperature": 37.5,
+    "blood_pressure": "128/82",
+    "weight": 72.3,
+    "blood_glucose": 150,
+    "clinical_note": "Patient showing mild post-operative inflammation. Blood pressure slightly elevated, but no acute concerns."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "blood_pressure": "122/78",
+    "weight": 72.2,
+    "blood_glucose": 140,
+    "clinical_note": "Oxygen saturation remains stable. Blood glucose trending downwards. Overall recovery progressing well."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.6,
+    "blood_pressure": "130/85",
+    "weight": 72.1,
+    "blood_glucose": 152,
+    "clinical_note": "Mild tachycardia noted, likely due to post-surgical inflammation. Blood pressure stable. Monitoring glucose levels closely."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 95,
+    "heart_rate": 79,
+    "temperature": 37.4,
+    "blood_pressure": "126/80",
+    "weight": 72.0,
+    "blood_glucose": 147,
+    "clinical_note": "Patient's vitals show gradual improvement. No new concerns, but continued monitoring of blood glucose is necessary."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "temperature": 37.1,
+    "blood_pressure": "120/78",
+    "weight": 71.9,
+    "clinical_note": "Recovery progressing well. Vitals within normal limits. Encouraging signs of stabilization."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 77,
+    "temperature": 37.3,
+    "blood_pressure": "124/79",
+    "weight": 71.8,
+    "blood_glucose": 143,
+    "clinical_note": "Patient continues to show good recovery. Blood glucose slightly elevated, but trending downwards."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 95,
+    "heart_rate": 81,
+    "temperature": 37.5,
+    "blood_pressure": "127/83",
+    "weight": 71.8,
+    "blood_glucose": 148,
+    "clinical_note": "Patient reports mild fatigue. Vitals stable, but glucose fluctuations persist. Monitoring for signs of delayed recovery."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "125/80",
+    "weight": 71.7,
+    "clinical_note": "Patient stable. No significant deviations from expected recovery trajectory. Encouraging signs of healing."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 74,
+    "temperature": 37.0,
+    "blood_pressure": "118/76",
+    "weight": 71.6,
+    "blood_glucose": 138,
+    "clinical_note": "Patient shows marked improvement. Vitals normalizing. Recovery appears to be on track."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 96,
+    "heart_rate": 76,
+    "temperature": 37.1,
+    "blood_pressure": "122/78",
+    "weight": 71.5,
+    "blood_glucose": 135,
+    "clinical_note": "Continued improvement noted. Vitals stable and within normal limits. Positive recovery trend observed."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 98,
+    "heart_rate": 72,
+    "temperature": 36.9,
+    "blood_pressure": "116/74",
+    "weight": 71.4,
+    "blood_glucose": 130,
+    "clinical_note": "Patient nearing full recovery. All vitals within optimal range. Discharge planning may commence soon."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 97,
+    "heart_rate": 73,
+    "temperature": 36.8,
+    "blood_pressure": "118/76",
+    "weight": 71.4,
+    "blood_glucose": 128,
+    "clinical_note": "Patient stable and asymptomatic. Recovery complete. Discharge planned for tomorrow."
+  }
+]
