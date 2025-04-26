@@ -1,0 +1,139 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "124/78",
+    "weight": 70.5,
+    "blood_glucose": 140,
+    "clinical_note": "Patient stable post-surgery, vitals within normal range. Monitoring for signs of infection or complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "120/76",
+    "weight": 70.4,
+    "blood_glucose": 135,
+    "clinical_note": "No significant changes noted. Patient progressing well with stable vitals."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 85,
+    "temperature": 37.3,
+    "blood_pressure": "125/80",
+    "weight": 70.3,
+    "clinical_note": "Mild elevation in heart rate observed. Continue monitoring for potential post-operative stress."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 93,
+    "heart_rate": 88,
+    "temperature": 37.5,
+    "blood_pressure": "128/82",
+    "weight": 70.2,
+    "blood_glucose": 150,
+    "clinical_note": "Slight fever noted. Early signs of inflammation or infection being monitored closely."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 94,
+    "heart_rate": 84,
+    "blood_pressure": "122/78",
+    "weight": 70.1,
+    "blood_glucose": 145,
+    "clinical_note": "Temperature normalized. Patient responding well to post-surgical care."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 79,
+    "temperature": 36.9,
+    "blood_pressure": "118/74",
+    "weight": 70.0,
+    "blood_glucose": 138,
+    "clinical_note": "Clinical status improving steadily. No signs of complications or infection."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 36.8,
+    "blood_pressure": "116/72",
+    "weight": 69.9,
+    "blood_glucose": 130,
+    "clinical_note": "Patient continues to show signs of recovery. Good appetite and mobility noted."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 95,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "119/75",
+    "weight": 69.8,
+    "blood_glucose": 132,
+    "clinical_note": "Recovery progressing uneventfully. Patient tolerating physiotherapy well."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 94,
+    "heart_rate": 84,
+    "temperature": 37.4,
+    "blood_pressure": "122/78",
+    "weight": 69.7,
+    "blood_glucose": 145,
+    "clinical_note": "Slight increase in temperature. No other concerning trends observed."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 93,
+    "heart_rate": 89,
+    "temperature": 37.6,
+    "blood_pressure": "126/80",
+    "weight": 69.6,
+    "blood_glucose": 150,
+    "clinical_note": "Mild fever persists. Blood tests ordered to rule out infection."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 94,
+    "heart_rate": 87,
+    "temperature": 37.2,
+    "blood_pressure": "123/78",
+    "weight": 69.6,
+    "blood_glucose": 140,
+    "clinical_note": "Fever subsiding. Patient responding well to antibiotics initiated yesterday."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "118/74",
+    "weight": 69.5,
+    "blood_glucose": 135,
+    "clinical_note": "Signs of infection resolving. Patient reports improved energy levels."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 36.7,
+    "blood_pressure": "116/72",
+    "weight": 69.4,
+    "blood_glucose": 130,
+    "clinical_note": "Clinical recovery progressing well. Patient ambulating independently with minimal discomfort."
+  },
+  {
+    "date": "2025-01-14",
+    "oxygen_saturation": 96,
+    "heart_rate": 76,
+    "temperature": 36.8,
+    "blood_pressure": "114/70",
+    "weight": 69.3,
+    "clinical_note": "Patient stable and ready for discharge planning. No complications anticipated."
+  }
+]

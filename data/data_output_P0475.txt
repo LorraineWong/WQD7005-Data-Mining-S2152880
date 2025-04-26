@@ -1,0 +1,109 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 92,
+    "heart_rate": 105,
+    "temperature": 38.2,
+    "blood_pressure": "130/85",
+    "weight": 72.4,
+    "blood_glucose": 185,
+    "clinical_note": "Patient presents with elevated temperature and heart rate. Oxygen saturation borderline normal. Monitoring for potential infection worsening or response to antibiotics."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 93,
+    "heart_rate": 102,
+    "temperature": 37.8,
+    "blood_pressure": "128/82",
+    "weight": 72.2,
+    "blood_glucose": 178,
+    "clinical_note": "Improvement in temperature noted; slight reduction in heart rate. Blood glucose remains elevated. Patient tolerating fluids and medications well."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 100,
+    "temperature": 37.6,
+    "blood_pressure": "125/80",
+    "weight": 72.1,
+    "clinical_note": "Oxygen saturation improving. Heart rate and temperature trending toward baseline. Patient shows mild clinical improvement."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 92,
+    "heart_rate": 104,
+    "blood_pressure": "132/87",
+    "weight": 71.9,
+    "blood_glucose": 190,
+    "clinical_note": "Transient drop in oxygen saturation and elevated blood glucose noted. Monitoring closely for signs of infection persistence."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 93,
+    "heart_rate": 99,
+    "temperature": 37.4,
+    "blood_pressure": "127/82",
+    "weight": 71.8,
+    "blood_glucose": 175,
+    "clinical_note": "Vitals stable with improving trends. Blood glucose remains high but manageable. Patient responding to treatment positively."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 97,
+    "temperature": 37.2,
+    "blood_pressure": "124/80",
+    "weight": 71.6,
+    "blood_glucose": 168,
+    "clinical_note": "Significant improvement in oxygenation and temperature. Blood glucose trending lower. Patient clinically stable and recovering well."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 96,
+    "temperature": 37.1,
+    "blood_pressure": "122/78",
+    "weight": 71.5,
+    "blood_glucose": 162,
+    "clinical_note": "Patient demonstrates near-normal vital signs with stable recovery trajectory. Blood glucose remains elevated but improving gradually."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 95,
+    "heart_rate": 98,
+    "temperature": 37.0,
+    "blood_pressure": "120/77",
+    "weight": 71.4,
+    "clinical_note": "Clinical improvement noted with stabilization of vital signs. Patient progressing well and responding to treatment effectively."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 95,
+    "temperature": 36.9,
+    "blood_pressure": "118/76",
+    "weight": 71.3,
+    "blood_glucose": 155,
+    "clinical_note": "Patient shows continued improvement with normalizing vital signs. Blood glucose trends remain positive. Plan to reassess discharge readiness in coming days."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 94,
+    "temperature": 36.8,
+    "blood_pressure": "116/75",
+    "weight": 71.2,
+    "blood_glucose": 150,
+    "clinical_note": "Patient clinically stable with near-normal vital signs. Blood glucose improving steadily. Recovery progressing well, discharge being considered."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 97,
+    "heart_rate": 92,
+    "temperature": 36.7,
+    "blood_pressure": "115/74",
+    "weight": 71.1,
+    "blood_glucose": 145,
+    "clinical_note": "Patient exhibits full recovery of vital signs and stabilization of glucose levels. Discharge planned barring unforeseen developments."
+  }
+]

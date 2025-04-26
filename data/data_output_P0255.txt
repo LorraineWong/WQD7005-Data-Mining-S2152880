@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "120/80",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-operation with normal oxygen levels and mild elevated blood glucose. No acute concerns noted."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 37.1,
+    "blood_pressure": "118/78",
+    "weight": 72.3,
+    "blood_glucose": 140,
+    "clinical_note": "Oxygen saturation remains steady, vital signs stable. Blood glucose slightly elevated but within manageable range."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.5,
+    "blood_pressure": "122/82",
+    "weight": 72.2,
+    "clinical_note": "Slight increase in heart rate and temperature. Monitoring for signs of infection or inflammation."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 94,
+    "heart_rate": 88,
+    "blood_pressure": "125/85",
+    "weight": 72.0,
+    "blood_glucose": 155,
+    "clinical_note": "Heart rate elevated, oxygen saturation declined slightly. Blood glucose remains elevated. Possible mild stress response to recovery process."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.3,
+    "blood_pressure": "120/80",
+    "weight": 72.0,
+    "blood_glucose": 150,
+    "clinical_note": "Patient stabilizing with improved oxygen levels and reduced heart rate. Blood glucose still elevated but trending downward."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 37.0,
+    "blood_pressure": "118/78",
+    "weight": 71.8,
+    "blood_glucose": 140,
+    "clinical_note": "Patient showing steady recovery. Vital signs normalizing and blood glucose improving."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 98,
+    "heart_rate": 74,
+    "temperature": 36.9,
+    "blood_pressure": "117/76",
+    "weight": 71.7,
+    "blood_glucose": 135,
+    "clinical_note": "Patient continues to recover well. Vital signs stable with further improvement in blood glucose levels."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 37.0,
+    "blood_pressure": "119/78",
+    "weight": 71.7,
+    "clinical_note": "Vital signs remain stable. Patient progressing as expected in post-operative recovery period."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.1,
+    "blood_pressure": "120/80",
+    "weight": 71.6,
+    "blood_glucose": 140,
+    "clinical_note": "No significant changes; patient remains stable with mild fluctuations in blood glucose."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "temperature": 36.8,
+    "blood_pressure": "118/77",
+    "weight": 71.5,
+    "blood_glucose": 130,
+    "clinical_note": "Patient nearing full recovery. Vital signs and glucose levels within acceptable ranges."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 98,
+    "heart_rate": 72,
+    "temperature": 36.7,
+    "blood_pressure": "116/75",
+    "weight": 71.5,
+    "blood_glucose": 125,
+    "clinical_note": "Patient exhibits optimal recovery progression. Blood glucose levels trending towards normal."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 98,
+    "heart_rate": 74,
+    "temperature": 36.8,
+    "blood_pressure": "117/76",
+    "weight": 71.4,
+    "blood_glucose": 120,
+    "clinical_note": "Stable recovery observed. Patient likely ready for discharge soon barring any complications."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 98,
+    "heart_rate": 72,
+    "blood_pressure": "116/75",
+    "weight": 71.4,
+    "blood_glucose": 118,
+    "clinical_note": "Patient fully stabilized with normal vital signs and glucose levels. Discharge scheduled."
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.2,
+    "blood_pressure": "124/80",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery. Vital signs within acceptable limits, mild hyperglycemia noted but no acute concerns."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 86,
+    "temperature": 37.5,
+    "blood_pressure": "126/82",
+    "weight": 72.4,
+    "blood_glucose": 148,
+    "clinical_note": "Mild tachycardia observed. Blood glucose remains elevated, monitoring for potential complications. Recovery progressing satisfactorily."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 37.1,
+    "blood_pressure": "122/78",
+    "blood_glucose": 140,
+    "clinical_note": "Oxygen saturation improved. Blood glucose trending downward, indicating better glycemic control. Patient remains stable."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 84,
+    "temperature": 37.3,
+    "blood_pressure": "125/79",
+    "weight": 72.3,
+    "clinical_note": "Recovery progressing well. Vital signs stable, no acute concerns noted today."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 94,
+    "heart_rate": 88,
+    "temperature": 37.6,
+    "blood_pressure": "130/85",
+    "weight": 72.3,
+    "blood_glucose": 150,
+    "clinical_note": "Slight increase in heart rate and temperature. Blood glucose remains elevated; continuing monitoring for trends."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "blood_pressure": "126/81",
+    "weight": 72.2,
+    "blood_glucose": 143,
+    "clinical_note": "Temperature omitted today. Patient remains stable overall, with gradual normalization of vital signs post-surgery."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.0,
+    "blood_pressure": "120/76",
+    "weight": 72.1,
+    "blood_glucose": 139,
+    "clinical_note": "Patient showing consistent improvement. Vital signs well within normal range. No complications observed."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 36.9,
+    "blood_pressure": "118/75",
+    "weight": 72.0,
+    "blood_glucose": 135,
+    "clinical_note": "Recovery progressing steadily. Blood glucose levels improving. Patient remains clinically stable and responsive."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.2,
+    "blood_pressure": "122/78",
+    "weight": 71.9,
+    "clinical_note": "Weight omitted today. Vital signs stable; patient recovering without signs of infection or other complications."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 37.0,
+    "blood_pressure": "120/77",
+    "weight": 71.8,
+    "blood_glucose": 130,
+    "clinical_note": "Patient continues to demonstrate recovery progress. Blood glucose now within acceptable range. No new concerns noted."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 98,
+    "heart_rate": 75,
+    "temperature": 36.8,
+    "blood_pressure": "118/74",
+    "weight": 71.8,
+    "blood_glucose": 125,
+    "clinical_note": "Patient nearing full recovery. Blood glucose and other vitals consistently within normal limits."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "blood_pressure": "119/75",
+    "weight": 71.7,
+    "clinical_note": "Temperature omitted today. Patient stable, with continued improvement. Preparing for possible discharge planning soon."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 98,
+    "heart_rate": 74,
+    "temperature": 36.7,
+    "blood_pressure": "117/73",
+    "weight": 71.7,
+    "blood_glucose": 120,
+    "clinical_note": "Recovery complete. Patient vital signs normal and consistent. Cleared for discharge with follow-up recommendations."
+  }
+]
