@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 36.6,
+    "blood_pressure": "125/80",
+    "weight": 72.5,
+    "blood_glucose": 148,
+    "clinical_note": "Patient stable post-surgery; vital signs within normal limits. Mild hyperglycemia noted but no immediate concerns."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 36.4,
+    "blood_pressure": "124/78",
+    "weight": 72.4,
+    "blood_glucose": 142,
+    "clinical_note": "Patient recovering well; blood glucose slightly elevated but improving. No signs of complications."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "temperature": 36.7,
+    "blood_pressure": "128/82",
+    "blood_glucose": 145,
+    "clinical_note": "Patient exhibiting mild tachycardia; continues to show steady recovery post-surgery. Monitoring for changes in vital signs."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 36.8,
+    "blood_pressure": "129/83",
+    "weight": 72.2,
+    "blood_glucose": 151,
+    "clinical_note": "Vital signs stable but mild hyperglycemia persists. No acute distress observed; patient remains under routine monitoring."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 84,
+    "temperature": 36.5,
+    "blood_pressure": "126/80",
+    "weight": 72.2,
+    "clinical_note": "Patient recovering steadily; vital signs within acceptable ranges. Blood glucose levels improving slightly."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 97,
+    "heart_rate": 82,
+    "temperature": 36.6,
+    "blood_pressure": "124/79",
+    "weight": 72.0,
+    "blood_glucose": 139,
+    "clinical_note": "Patient showing consistent recovery. Blood glucose trending down; no indications of complications."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 81,
+    "temperature": 36.4,
+    "blood_pressure": "123/78",
+    "weight": 72.0,
+    "blood_glucose": 138,
+    "clinical_note": "Clinical status stable with continued improvement in glycemic control. Patient tolerating recovery well."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 36.5,
+    "blood_pressure": "122/76",
+    "weight": 71.9,
+    "blood_glucose": 136,
+    "clinical_note": "Patient progressing well post-surgery; vital signs remain stable. No signs of infection or complications."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 36.6,
+    "blood_pressure": "123/77",
+    "weight": 71.8,
+    "clinical_note": "Patient stable with no new concerns. Monitoring continues to ensure full recovery without complications."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 79,
+    "temperature": 36.4,
+    "blood_pressure": "122/76",
+    "blood_glucose": 134,
+    "clinical_note": "Patient recovering steadily; vital signs remain within normal ranges. Blood glucose shows continued improvement."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 36.5,
+    "blood_pressure": "121/75",
+    "weight": 71.7,
+    "blood_glucose": 132,
+    "clinical_note": "Patient demonstrating good progress; vital signs stable. Monitoring continues to ensure no late complications."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 77,
+    "temperature": 36.4,
+    "blood_pressure": "120/74",
+    "weight": 71.6,
+    "blood_glucose": 130,
+    "clinical_note": "Clinical condition improving; vital signs consistently normal. Patient nearing discharge criteria with excellent recovery trajectory."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 36.5,
+    "blood_pressure": "119/73",
+    "weight": 71.5,
+    "blood_glucose": 128,
+    "clinical_note": "Patient stable and ready for discharge; vital signs normal and blood glucose well-controlled. Surgery recovery successful."
+  }
+]

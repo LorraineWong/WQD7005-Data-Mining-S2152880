@@ -1,0 +1,89 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 94,
+    "heart_rate": 88,
+    "temperature": 37.5,
+    "blood_pressure": "130/85",
+    "weight": 72,
+    "blood_glucose": 140,
+    "clinical_note": "Patient stable post-surgery, mild tachycardia observed. Oxygen saturation within acceptable limits. Monitoring for signs of infection or complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 85,
+    "temperature": 37.3,
+    "blood_pressure": "128/84",
+    "weight": 72,
+    "blood_glucose": 135,
+    "clinical_note": "Patient recovering well. Vitals stable, no signs of fever. Continue close monitoring for post-operative complications."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 96,
+    "heart_rate": 83,
+    "blood_pressure": "125/82",
+    "weight": 72,
+    "blood_glucose": 130,
+    "clinical_note": "Improvement noted in oxygenation and heart rate. Blood pressure remains stable. Patient tolerating post-surgical recovery."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 94,
+    "heart_rate": 86,
+    "temperature": 37.6,
+    "blood_pressure": "130/85",
+    "weight": 71.8,
+    "blood_glucose": 145,
+    "clinical_note": "Slight increase in temperature; monitoring for infection. Blood glucose elevated but manageable. Patient remains stable overall."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 93,
+    "heart_rate": 90,
+    "temperature": 37.8,
+    "blood_pressure": "135/88",
+    "weight": 71.8,
+    "blood_glucose": 150,
+    "clinical_note": "Patient showing mild signs of stress or inflammation. Blood glucose elevated; infection risk being evaluated."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 92,
+    "heart_rate": 92,
+    "temperature": 38.1,
+    "blood_pressure": "140/90",
+    "weight": 71.6,
+    "blood_glucose": 155,
+    "clinical_note": "Signs of systemic inflammation noted. Fever and elevated heart rate require further investigation. Antibiotics initiated empirically."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 91,
+    "heart_rate": 95,
+    "temperature": 38.4,
+    "blood_pressure": "145/92",
+    "blood_glucose": 160,
+    "clinical_note": "Patient deteriorating with persistent fever and tachycardia. Active intervention for infection ongoing."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 89,
+    "heart_rate": 98,
+    "temperature": 38.6,
+    "blood_pressure": "150/95",
+    "weight": 71.5,
+    "clinical_note": "Respiratory status worsening; oxygen support increased. Fever persists. ICU transfer considered if no improvement."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 88,
+    "heart_rate": 102,
+    "temperature": 38.8,
+    "blood_pressure": "155/100",
+    "weight": 71.3,
+    "blood_glucose": 165,
+    "clinical_note": "Critical condition with persistent fever and tachycardia. ICU transfer completed for advanced monitoring and interventions."
+  }
+]

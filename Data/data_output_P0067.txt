@@ -1,0 +1,98 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 94,
+    "heart_rate": 88,
+    "temperature": 37.2,
+    "blood_pressure": "130/85",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery. Mild tachycardia observed; monitoring closely for signs of infection or complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 93,
+    "heart_rate": 90,
+    "temperature": 37.5,
+    "blood_pressure": "128/82",
+    "weight": 72.4,
+    "blood_glucose": 150,
+    "clinical_note": "Elevated temperature and heart rate suggest mild inflammatory response. No signs of severe infection; continue supportive care."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 95,
+    "heart_rate": 85,
+    "temperature": 37.3,
+    "blood_pressure": "125/80",
+    "blood_glucose": 142,
+    "clinical_note": "Improved oxygenation and stabilized vitals. Patient tolerating recovery well; continue monitoring for complications."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 94,
+    "heart_rate": 87,
+    "temperature": 37.4,
+    "blood_pressure": "130/84",
+    "weight": 72.3,
+    "clinical_note": "Patient remains stable with minor fluctuations in vitals. No acute concerns noted during monitoring."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "122/78",
+    "weight": 72.2,
+    "blood_glucose": 138,
+    "clinical_note": "Improved parameters overnight; stable recovery trajectory continues. Patient responding well to post-surgical care."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 84,
+    "blood_pressure": "124/80",
+    "weight": 72.2,
+    "blood_glucose": 140,
+    "clinical_note": "Vitals stable with consistent recovery progress. Temperature omitted today; clinical status remains favorable."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 94,
+    "heart_rate": 86,
+    "temperature": 37.3,
+    "blood_pressure": "126/82",
+    "weight": 72.1,
+    "blood_glucose": 144,
+    "clinical_note": "Patient stable overall. Minor elevation in blood glucose; continue dietary adjustments and monitoring."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 95,
+    "heart_rate": 83,
+    "temperature": 37.2,
+    "blood_pressure": "125/80",
+    "weight": 72.0,
+    "clinical_note": "Patient progressing well. Weight trending down slightly; no associated clinical concerns observed."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "120/78",
+    "weight": 72.0,
+    "blood_glucose": 135,
+    "clinical_note": "Patient showing excellent recovery progress. All parameters within healthy range; consider discharge planning soon."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 36.9,
+    "blood_pressure": "118/76",
+    "weight": 71.9,
+    "blood_glucose": 133,
+    "clinical_note": "Patient ready for discharge. Vitals normalized; no signs of complications. Post-surgical recovery completed successfully."
+  }
+]

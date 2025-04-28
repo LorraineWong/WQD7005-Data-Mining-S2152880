@@ -1,0 +1,129 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.2,
+    "blood_pressure": "128/84",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery. Oxygen saturation and vitals within normal range. Monitor for signs of infection."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.6,
+    "blood_pressure": "130/86",
+    "weight": 72.3,
+    "blood_glucose": 151,
+    "clinical_note": "Mild increase in temperature and heart rate. No significant complications detected. Encourage fluid intake and rest."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 92,
+    "blood_pressure": "134/88",
+    "weight": 72.2,
+    "blood_glucose": 158,
+    "clinical_note": "Patient showing mild tachycardia. Continue monitoring closely for potential signs of infection or inflammation."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 95,
+    "heart_rate": 85,
+    "temperature": 37.4,
+    "blood_pressure": "132/85",
+    "weight": 72.0,
+    "blood_glucose": 147,
+    "clinical_note": "Vitals improving slightly. Patient tolerating post-surgical recovery well. No immediate concerns identified."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 84,
+    "temperature": 37.1,
+    "blood_pressure": "126/82",
+    "weight": 71.9,
+    "blood_glucose": 143,
+    "clinical_note": "Patient continues to show stable recovery. No fever or distress observed. Encourage ambulation as tolerated."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 36.9,
+    "blood_pressure": "124/80",
+    "weight": 71.8,
+    "blood_glucose": 139,
+    "clinical_note": "Patient displays steady improvement. Vitals remain normal. No signs of complications."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.0,
+    "blood_pressure": "122/79",
+    "weight": 71.8,
+    "clinical_note": "Patient progressing well in recovery. Stable vitals and no concerning symptoms reported."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 36.8,
+    "blood_pressure": "120/78",
+    "weight": 71.7,
+    "blood_glucose": 135,
+    "clinical_note": "Patient shows continued improvement. Recovery on track with no complications."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 97,
+    "heart_rate": 79,
+    "temperature": 37.0,
+    "blood_pressure": "122/80",
+    "weight": 71.6,
+    "blood_glucose": 140,
+    "clinical_note": "Patient stable and responding well to post-surgical care. No abnormalities detected."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 96,
+    "heart_rate": 81,
+    "temperature": 37.2,
+    "blood_pressure": "125/82",
+    "weight": 71.5,
+    "blood_glucose": 142,
+    "clinical_note": "Patient recovering steadily with no new concerns. Continue routine monitoring and encourage mobility."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 36.9,
+    "blood_pressure": "122/79",
+    "weight": 71.4,
+    "clinical_note": "Recovery progressing as expected. Vitals normal. Patient tolerating dietary advancements well."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 98,
+    "heart_rate": 77,
+    "temperature": 36.8,
+    "blood_pressure": "120/78",
+    "weight": 71.4,
+    "blood_glucose": 132,
+    "clinical_note": "Patient displays excellent recovery trajectory. No complications noted. Discharge planning may be initiated."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 98,
+    "heart_rate": 76,
+    "temperature": 36.7,
+    "blood_pressure": "118/76",
+    "weight": 71.3,
+    "blood_glucose": 130,
+    "clinical_note": "Patient fully stable and nearing discharge readiness. All vitals within expected ranges."
+  }
+]

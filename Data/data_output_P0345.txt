@@ -1,0 +1,100 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "128/82",
+    "weight": 72.5,
+    "blood_glucose": 110,
+    "clinical_note": "Patient stable post-surgery with normal oxygenation and vital signs. Pain well-controlled with no signs of complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.5,
+    "blood_pressure": "130/85",
+    "weight": 72.4,
+    "blood_glucose": 115,
+    "clinical_note": "Mildly elevated heart rate and temperature. Patient reports mild discomfort at incision site, but no alarming signs observed."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 85,
+    "blood_pressure": "132/86",
+    "weight": 72.3,
+    "blood_glucose": 118,
+    "clinical_note": "Minor decrease in oxygen saturation but remains within acceptable range. No fever or signs of infection."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 95,
+    "heart_rate": 80,
+    "temperature": 37.1,
+    "blood_pressure": "126/80",
+    "weight": 72.2,
+    "blood_glucose": 105,
+    "clinical_note": "Improved vital signs with stable oxygenation. Patient mobilizing well and tolerating post-operative care."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 36.9,
+    "blood_pressure": "124/78",
+    "weight": 72.1,
+    "blood_glucose": 98,
+    "clinical_note": "Patient progressing well. No signs of infection or complications. Incision healing appropriately."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 37.0,
+    "blood_pressure": "122/76",
+    "weight": 72.0,
+    "blood_glucose": 100,
+    "clinical_note": "Continued improvement with stable vitals. Patient ambulating without assistance and tolerating oral intake."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 37.2,
+    "blood_pressure": "125/80",
+    "blood_glucose": 102,
+    "clinical_note": "Slight elevation in temperature but no signs of infection. Patient reported mild fatigue, likely related to recovery."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "temperature": 37.0,
+    "blood_pressure": "120/76",
+    "weight": 71.9,
+    "blood_glucose": 95,
+    "clinical_note": "Patient remains stable with no complications. Vital signs within normal limits."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 77,
+    "temperature": 36.8,
+    "blood_pressure": "118/74",
+    "weight": 71.8,
+    "blood_glucose": 92,
+    "clinical_note": "Incision site shows no signs of infection. Patient reports no pain and is mobilizing independently."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 74,
+    "temperature": 37.1,
+    "blood_pressure": "115/72",
+    "weight": 71.8,
+    "blood_glucose": 90,
+    "clinical_note": "Patient exhibits full recovery signs with stable vitals. Discharge planned for the next day."
+  }
+]

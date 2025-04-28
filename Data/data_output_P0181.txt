@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "120/80",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery. Vital signs within acceptable limits, slight elevation in blood glucose noted."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.4,
+    "blood_pressure": "118/76",
+    "weight": 72.4,
+    "blood_glucose": 140,
+    "clinical_note": "Mild tachycardia observed, likely due to postoperative discomfort. No signs of infection or acute complications."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "blood_pressure": "122/78",
+    "weight": 72.3,
+    "blood_glucose": 135,
+    "clinical_note": "Patient showing steady recovery. Oxygen saturation improved, heart rate normalized; monitoring continues."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.1,
+    "blood_pressure": "120/82",
+    "weight": 72.3,
+    "blood_glucose": 138,
+    "clinical_note": "Vitals remain stable, with slight fluctuations in heart rate. No signs of postoperative complications."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 94,
+    "heart_rate": 84,
+    "temperature": 37.5,
+    "blood_pressure": "124/84",
+    "weight": 72.2,
+    "clinical_note": "Transient increase in heart rate and temperature noted; monitoring for signs of infection or inflammation."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 79,
+    "temperature": 37.2,
+    "blood_pressure": "119/78",
+    "weight": 72.1,
+    "blood_glucose": 142,
+    "clinical_note": "Patient stable with mild elevation in blood glucose. No concerning trends in vitals."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 77,
+    "temperature": 37.0,
+    "blood_pressure": "118/76",
+    "weight": 72.0,
+    "blood_glucose": 136,
+    "clinical_note": "Recovery progressing well. Vitals consistently within acceptable ranges; no signs of complications."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "blood_pressure": "116/74",
+    "weight": 72.0,
+    "blood_glucose": 130,
+    "clinical_note": "Patient continues to show improvement. Blood glucose levels trending downward; monitoring ongoing."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.3,
+    "blood_pressure": "120/80",
+    "weight": 71.9,
+    "blood_glucose": 128,
+    "clinical_note": "Vitals stable, with gradual normalization of blood glucose. No evidence of complications."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 37.0,
+    "blood_pressure": "118/76",
+    "weight": 71.8,
+    "blood_glucose": 125,
+    "clinical_note": "Patient nearing full recovery. Clinical parameters consistently within normal limits, monitoring continues."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 98,
+    "heart_rate": 74,
+    "temperature": 36.9,
+    "blood_pressure": "116/74",
+    "blood_glucose": 120,
+    "clinical_note": "Recovery progressing smoothly with no signs of complications. Vitals stable and within normal ranges."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "temperature": 37.1,
+    "blood_pressure": "118/76",
+    "weight": 71.7,
+    "blood_glucose": 122,
+    "clinical_note": "Patient stable. Monitoring shows consistent improvement in clinical parameters, nearing discharge readiness."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 98,
+    "heart_rate": 72,
+    "temperature": 36.8,
+    "blood_pressure": "114/72",
+    "weight": 71.7,
+    "blood_glucose": 118,
+    "clinical_note": "Patient showing full recovery. Vital signs normal; discharge anticipated in the next 24–48 hours."
+  }
+]

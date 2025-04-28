@@ -1,0 +1,147 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "122/78",
+    "weight": 68.2,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery with mild discomfort; vital signs within acceptable range. Monitoring for any signs of complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "120/76",
+    "weight": 68.1,
+    "blood_glucose": 140,
+    "clinical_note": "Continued improvement noted; vital signs stable and within normal limits. No signs of infection or adverse effects observed."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 95,
+    "heart_rate": 85,
+    "blood_pressure": "125/80",
+    "weight": 68.0,
+    "blood_glucose": 150,
+    "clinical_note": "Slight increase in heart rate; no fever detected. Patient reports mild pain at surgical site. Monitoring closely for any complications."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 84,
+    "temperature": 37.2,
+    "blood_pressure": "118/74",
+    "weight": 67.9,
+    "blood_glucose": 142,
+    "clinical_note": "Patient progressing well post-surgery; vital signs remain stable. Pain management appears effective, and no signs of infection are present."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 94,
+    "heart_rate": 90,
+    "temperature": 37.3,
+    "blood_pressure": "128/82",
+    "weight": 67.8,
+    "blood_glucose": 155,
+    "clinical_note": "Slight elevation in heart rate and blood pressure noted; surgical site healing appropriately. Monitoring for potential early signs of infection."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.1,
+    "blood_pressure": "126/80",
+    "weight": 67.7,
+    "clinical_note": "Patient stable with no signs of complications; surgical site appears clean. Pain remains manageable, and ambulation has improved."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 83,
+    "temperature": 37.0,
+    "blood_pressure": "122/78",
+    "weight": 67.6,
+    "blood_glucose": 148,
+    "clinical_note": "Continued recovery noted; vital signs stable, and patient reports improved energy levels. No signs of infection or adverse reactions."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 81,
+    "blood_pressure": "120/76",
+    "weight": 67.6,
+    "blood_glucose": 140,
+    "clinical_note": "Patient demonstrating steady progress; vital signs within normal limits. Pain is well-controlled, and mobility has improved significantly."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "118/74",
+    "weight": 67.5,
+    "clinical_note": "Patient remains stable with no complications. Surgical site healing appropriately, and appetite has improved."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 95,
+    "heart_rate": 85,
+    "temperature": 37.2,
+    "blood_pressure": "125/78",
+    "weight": 67.4,
+    "blood_glucose": 150,
+    "clinical_note": "Mild elevation in heart rate and blood glucose noted; surgical site clean and healing. Monitoring closely for any potential signs of infection."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 96,
+    "heart_rate": 83,
+    "temperature": 37.0,
+    "blood_pressure": "120/76",
+    "weight": 67.3,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable with continued progress; vital signs normal. Pain well-controlled, and ambulation further improved."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 36.9,
+    "blood_pressure": "118/74",
+    "weight": 67.3,
+    "blood_glucose": 138,
+    "clinical_note": "Patient demonstrating excellent recovery trajectory; vital signs remain stable. Surgical site healing well, and energy levels are near baseline."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "122/78",
+    "weight": 67.2,
+    "clinical_note": "Patient continues to progress; vital signs within normal range. No complications observed; preparing for potential discharge in coming days."
+  },
+  {
+    "date": "2025-01-14",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 36.8,
+    "blood_pressure": "120/76",
+    "weight": 67.1,
+    "blood_glucose": 135,
+    "clinical_note": "Patient stable and nearing full recovery; vital signs normal. No signs of infection or adverse events observed."
+  },
+  {
+    "date": "2025-01-15",
+    "oxygen_saturation": 98,
+    "heart_rate": 78,
+    "temperature": 36.7,
+    "blood_pressure": "118/74",
+    "weight": 67.0,
+    "blood_glucose": 130,
+    "clinical_note": "Patient ready for discharge; full recovery achieved, and vital signs consistently within normal limits. Follow-up care plan established."
+  }
+]

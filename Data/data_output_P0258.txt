@@ -1,0 +1,98 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "120/80",
+    "weight": 70.5,
+    "blood_glucose": 110,
+    "clinical_note": "Patient stable post-surgery; vital signs within normal range; monitoring for potential complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.4,
+    "blood_pressure": "122/82",
+    "weight": 70.5,
+    "blood_glucose": 115,
+    "clinical_note": "Mild tachycardia noted; patient recovering well but requires close monitoring for signs of infection."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 37.1,
+    "blood_pressure": "118/78",
+    "weight": 70.4,
+    "clinical_note": "No signs of infection; patient progressing as expected post-surgery; hydration and mobility encouraged."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "blood_pressure": "120/79",
+    "weight": 70.3,
+    "blood_glucose": 112,
+    "clinical_note": "Heart rate slightly elevated; temperature normal; patient tolerating oral intake and ambulating with assistance."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.5,
+    "blood_pressure": "125/82",
+    "weight": 70.2,
+    "blood_glucose": 117,
+    "clinical_note": "Low-grade fever noted; monitoring for potential infection; pain management adjusted to improve mobility."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 94,
+    "heart_rate": 90,
+    "temperature": 37.6,
+    "blood_pressure": "126/84",
+    "weight": 70.3,
+    "blood_glucose": 120,
+    "clinical_note": "Patient showing signs of mild infection; antibiotics initiated; hydration and rest emphasized."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 93,
+    "heart_rate": 92,
+    "temperature": 37.8,
+    "blood_pressure": "130/85",
+    "blood_glucose": 125,
+    "clinical_note": "Infection confirmed; temperature elevated; antibiotics showing early effect; respiratory status closely monitored."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.4,
+    "blood_pressure": "128/83",
+    "weight": 70.1,
+    "clinical_note": "Patient responding to antibiotics; fever decreasing; vital signs gradually stabilizing."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "temperature": 37.3,
+    "blood_pressure": "122/80",
+    "weight": 70.0,
+    "blood_glucose": 118,
+    "clinical_note": "Patient continues to recover; fever resolved; mobility improving; monitoring for residual signs of infection."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 37.1,
+    "blood_pressure": "120/78",
+    "weight": 70.0,
+    "blood_glucose": 115,
+    "clinical_note": "Patient stable; infection resolved; preparing for discharge planning; follow-up scheduled to ensure continued recovery."
+  }
+]

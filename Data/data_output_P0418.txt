@@ -1,0 +1,109 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 97,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "120/80",
+    "weight": 68.5,
+    "blood_glucose": 110,
+    "clinical_note": "Patient is stable post-surgery with normal vitals and mild pain. Recovery progression is on track."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "temperature": 37.3,
+    "blood_pressure": "118/79",
+    "weight": 68.4,
+    "blood_glucose": 112,
+    "clinical_note": "Mild tachycardia observed, otherwise stable. Patient tolerating oral intake and mobilizing slowly."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 97,
+    "heart_rate": 84,
+    "blood_pressure": "119/78",
+    "weight": 68.3,
+    "blood_glucose": 108,
+    "clinical_note": "Patient remains stable with slight improvement in ambulation. No fever, and pain is controlled."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "122/81",
+    "weight": 68.3,
+    "blood_glucose": 105,
+    "clinical_note": "Clinical status improving. Wound site shows no signs of infection, and vital signs are within normal limits."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 86,
+    "temperature": 37.2,
+    "blood_pressure": "121/80",
+    "weight": 68.2,
+    "clinical_note": "Mild tachycardia continues, likely related to pain. Patient progressing but requires additional monitoring."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 98,
+    "heart_rate": 81,
+    "temperature": 36.9,
+    "blood_pressure": "119/78",
+    "weight": 68.2,
+    "blood_glucose": 104,
+    "clinical_note": "Signs of steady recovery. No abnormal findings today, and mobility further improved."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "120/79",
+    "weight": 68.1,
+    "blood_glucose": 106,
+    "clinical_note": "Patient remains stable with good wound healing. No complications noted, and appetite improving."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 98,
+    "heart_rate": 78,
+    "temperature": 36.8,
+    "blood_pressure": "118/77",
+    "weight": 68.0,
+    "blood_glucose": 102,
+    "clinical_note": "Vital signs are stable, and patient is mobilizing independently. Pain management effective."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 98,
+    "heart_rate": 77,
+    "temperature": 37.1,
+    "blood_pressure": "117/76",
+    "weight": 68.0,
+    "blood_glucose": 100,
+    "clinical_note": "Patient demonstrating consistent recovery. No signs of infection or other complications."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 79,
+    "temperature": 36.9,
+    "blood_pressure": "120/78",
+    "weight": 68.0,
+    "clinical_note": "Recovery trajectory remains steady. Patient expresses well-being and readiness for discharge planning soon."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 98,
+    "heart_rate": 76,
+    "temperature": 36.8,
+    "blood_pressure": "118/75",
+    "weight": 67.9,
+    "blood_glucose": 102,
+    "clinical_note": "Patient clinically stable with no abnormal findings. Discharge preparation is underway."
+  }
+]

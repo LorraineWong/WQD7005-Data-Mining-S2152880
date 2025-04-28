@@ -1,0 +1,136 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "temperature": 37.2,
+    "blood_pressure": "125/80",
+    "weight": 70,
+    "blood_glucose": 105,
+    "clinical_note": "Patient is stable post-surgery, vitals within normal limits, mild discomfort noted at incision site."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.4,
+    "blood_pressure": "130/85",
+    "weight": 70,
+    "clinical_note": "Mild elevation in heart rate and temperature; patient reports moderate pain, incision healing appropriately."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 90,
+    "temperature": 37.6,
+    "blood_pressure": "128/83",
+    "blood_glucose": 108,
+    "clinical_note": "Slight increase in heart rate and temperature; monitoring for signs of infection, no major concerns at this time."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.3,
+    "blood_pressure": "125/80",
+    "weight": 69.8,
+    "blood_glucose": 102,
+    "clinical_note": "Patient's vitals improving, discomfort reducing, advised continued rest and hydration."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 37.1,
+    "blood_pressure": "120/78",
+    "weight": 69.8,
+    "blood_glucose": 100,
+    "clinical_note": "Patient shows signs of steady recovery; no complications noted, incision healing well."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "118/75",
+    "weight": 69.7,
+    "clinical_note": "Clinical status stable; patient reports minimal pain and improving energy levels."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 37.2,
+    "blood_pressure": "119/76",
+    "weight": 69.7,
+    "blood_glucose": 101,
+    "clinical_note": "Patient continues to recover well; vitals remain stable, no new concerns."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 37.0,
+    "blood_pressure": "117/74",
+    "weight": 69.6,
+    "blood_glucose": 98,
+    "clinical_note": "Patient reports feeling better overall; incision site clean and healing without complications."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "blood_pressure": "118/75",
+    "weight": 69.6,
+    "blood_glucose": 99,
+    "clinical_note": "Temperature data missing today; patient continues to improve, overall stable condition."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 98,
+    "heart_rate": 77,
+    "temperature": 36.9,
+    "blood_pressure": "116/72",
+    "weight": 69.5,
+    "blood_glucose": 97,
+    "clinical_note": "Patient is progressing well post-surgery, no signs of infection or complications."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 98,
+    "heart_rate": 75,
+    "temperature": 36.8,
+    "blood_pressure": "115/70",
+    "weight": 69.4,
+    "clinical_note": "Patient exhibits excellent recovery progress; incision site fully healing, energy levels normalizing."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 36.9,
+    "blood_pressure": "117/73",
+    "blood_glucose": 96,
+    "clinical_note": "Patient maintains stable vitals; no concerns raised, preparing for potential discharge soon."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 98,
+    "heart_rate": 75,
+    "temperature": 36.7,
+    "blood_pressure": "114/70",
+    "weight": 69.4,
+    "blood_glucose": 94,
+    "clinical_note": "Patient is clinically stable; discharge planned for tomorrow barring unforeseen changes."
+  },
+  {
+    "date": "2025-01-14",
+    "oxygen_saturation": 98,
+    "heart_rate": 74,
+    "temperature": 36.6,
+    "blood_pressure": "112/68",
+    "weight": 69.3,
+    "blood_glucose": 92,
+    "clinical_note": "Patient discharged in stable condition; recovery at home to continue, follow-up scheduled."
+  }
+]

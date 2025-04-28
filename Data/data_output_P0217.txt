@@ -1,0 +1,99 @@
+[
+    {
+        "date": "2025-01-01",
+        "oxygen_saturation": 96,
+        "heart_rate": 82,
+        "temperature": 36.8,
+        "blood_pressure": "125/80",
+        "weight": 68.5,
+        "blood_glucose": 105,
+        "clinical_note": "Patient stable post-surgery; vital signs within target range. Monitoring for signs of infection or complications."
+    },
+    {
+        "date": "2025-01-02",
+        "oxygen_saturation": 97,
+        "heart_rate": 78,
+        "temperature": 36.9,
+        "blood_pressure": "120/78",
+        "weight": 68.4,
+        "blood_glucose": 110,
+        "clinical_note": "Continued recovery; no signs of distress. Encouraged mobilization and wound inspection shows no abnormalities."
+    },
+    {
+        "date": "2025-01-03",
+        "oxygen_saturation": 95,
+        "heart_rate": 85,
+        "blood_pressure": "128/84",
+        "weight": 68.4,
+        "blood_glucose": 112,
+        "clinical_note": "Slight increase in heart rate; monitoring for potential early signs of infection. Patient reports mild fatigue."
+    },
+    {
+        "date": "2025-01-04",
+        "oxygen_saturation": 94,
+        "heart_rate": 88,
+        "temperature": 37.4,
+        "blood_pressure": "130/85",
+        "weight": 68.3,
+        "blood_glucose": 120,
+        "clinical_note": "Mild pyrexia observed with elevated heart rate; advised hydration and further tests to rule out infection."
+    },
+    {
+        "date": "2025-01-05",
+        "oxygen_saturation": 93,
+        "heart_rate": 90,
+        "temperature": 37.8,
+        "blood_pressure": "135/88",
+        "weight": 68.3,
+        "blood_glucose": 125,
+        "clinical_note": "Suspected low-grade infection; antibiotics initiated. Patient reports mild discomfort but no major complications."
+    },
+    {
+        "date": "2025-01-06",
+        "oxygen_saturation": 94,
+        "heart_rate": 86,
+        "temperature": 37.5,
+        "blood_pressure": "132/85",
+        "weight": 68.2,
+        "blood_glucose": 118,
+        "clinical_note": "Responding well to antibiotics; monitoring vitals closely. Patient reports improved energy levels."
+    },
+    {
+        "date": "2025-01-07",
+        "oxygen_saturation": 95,
+        "heart_rate": 82,
+        "temperature": 37.0,
+        "blood_pressure": "125/80",
+        "weight": 68.2,
+        "blood_glucose": 110,
+        "clinical_note": "Temperature normalized; patient shows signs of recovery. Continued monitoring for any signs of relapse."
+    },
+    {
+        "date": "2025-01-08",
+        "oxygen_saturation": 96,
+        "heart_rate": 80,
+        "temperature": 36.8,
+        "blood_pressure": "120/78",
+        "blood_glucose": 108,
+        "clinical_note": "Stable condition; vitals within expected range. Patient is ambulating well and reports no concerns."
+    },
+    {
+        "date": "2025-01-09",
+        "oxygen_saturation": 97,
+        "heart_rate": 78,
+        "temperature": 36.7,
+        "blood_pressure": "118/76",
+        "weight": 68.1,
+        "blood_glucose": 105,
+        "clinical_note": "Patient continues to recover smoothly with no abnormalities. Encouraged further mobilization and dietary adjustments."
+    },
+    {
+        "date": "2025-01-10",
+        "oxygen_saturation": 97,
+        "heart_rate": 76,
+        "temperature": 36.6,
+        "blood_pressure": "117/75",
+        "weight": 68.1,
+        "clinical_note": "Patient shows full recovery trajectory; vitals remain stable. Discharge planning initiated pending final assessments."
+    }
+]

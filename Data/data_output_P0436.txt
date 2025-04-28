@@ -1,0 +1,129 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.2,
+    "blood_pressure": "128/82",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery. Vital signs within acceptable range. Monitoring for signs of infection or complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "125/80",
+    "weight": 72.4,
+    "blood_glucose": 138,
+    "clinical_note": "Patient progressing well. No signs of fever or distress. Encouraged mobility and pain management."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 85,
+    "temperature": 37.3,
+    "blood_pressure": "130/85",
+    "blood_glucose": 142,
+    "clinical_note": "Slight elevation in heart rate but stable overall. No significant concerns noted. Continue monitoring closely."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 95,
+    "heart_rate": 81,
+    "temperature": 36.9,
+    "blood_pressure": "126/84",
+    "weight": 72.2,
+    "blood_glucose": 136,
+    "clinical_note": "Recovery remains on track. Patient reporting mild discomfort at surgical site, managed with analgesics."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 37.0,
+    "blood_pressure": "124/80",
+    "weight": 72.1,
+    "clinical_note": "Patient demonstrating steady improvement. No fever or abnormal findings. Encouraging light physical activity."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 83,
+    "temperature": 37.1,
+    "blood_pressure": "127/83",
+    "weight": 72.0,
+    "blood_glucose": 140,
+    "clinical_note": "Minor fluctuations in glucose levels but overall stable. No signs of complications. Continue current care plan."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 94,
+    "heart_rate": 86,
+    "temperature": 37.4,
+    "blood_pressure": "129/86",
+    "weight": 71.8,
+    "blood_glucose": 148,
+    "clinical_note": "Slight increase in heart rate and glucose noted. Monitoring for potential early signs of infection or stress."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "125/82",
+    "weight": 71.7,
+    "blood_glucose": 135,
+    "clinical_note": "Patient stable with improved parameters. No new issues reported. Encouraged gradual increase in activity."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "127/84",
+    "weight": 71.6,
+    "blood_glucose": 139,
+    "clinical_note": "Recovery progressing well. Patient reports good pain control. No abnormalities in clinical exams."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 95,
+    "heart_rate": 84,
+    "temperature": 37.2,
+    "blood_pressure": "126/83",
+    "blood_glucose": 141,
+    "clinical_note": "Vital signs remain stable. Patient tolerating oral intake well. No signs of infection or complications."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "124/80",
+    "weight": 71.5,
+    "blood_glucose": 134,
+    "clinical_note": "Continued improvement noted. Patient is mobilizing with assistance and showing good overall progress."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 36.8,
+    "blood_pressure": "122/78",
+    "weight": 71.4,
+    "blood_glucose": 130,
+    "clinical_note": "Recovery nearly complete. Vital signs stable. Plan for discharge if no new issues arise in the next 48 hours."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 36.9,
+    "blood_pressure": "123/79",
+    "weight": 71.3,
+    "blood_glucose": 129,
+    "clinical_note": "Patient ready for discharge. No complications detected. Follow-up scheduled to monitor long-term recovery."
+  }
+]

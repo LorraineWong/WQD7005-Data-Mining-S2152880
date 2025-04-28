@@ -1,0 +1,147 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 36.8,
+    "blood_pressure": "124/78",
+    "weight": 70.5,
+    "blood_glucose": 105,
+    "clinical_note": "Patient stable post-surgery with normal vitals. No signs of complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 36.9,
+    "blood_pressure": "122/80",
+    "weight": 70.4,
+    "blood_glucose": 110,
+    "clinical_note": "Slight improvement in mobility. Vitals within normal range and recovering well."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "blood_pressure": "126/82",
+    "weight": 70.4,
+    "blood_glucose": 115,
+    "clinical_note": "Patient reports mild pain at surgical site. No signs of infection; monitoring continues."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.2,
+    "blood_pressure": "130/85",
+    "weight": 70.3,
+    "blood_glucose": 118,
+    "clinical_note": "Mildly elevated heart rate and temperature. Advised rest and pain management."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 36.8,
+    "blood_pressure": "128/80",
+    "weight": 70.3,
+    "blood_glucose": 112,
+    "clinical_note": "Patient stable with improved energy levels. No significant concerns today."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 36.7,
+    "blood_pressure": "122/78",
+    "weight": 70.2,
+    "blood_glucose": 110,
+    "clinical_note": "Continues to recover well post-surgery. No abnormalities noted."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "125/81",
+    "weight": 70.2,
+    "clinical_note": "Patient progressing steadily. No complaints reported, vitals stable."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 95,
+    "heart_rate": 83,
+    "temperature": 37.1,
+    "blood_pressure": "130/84",
+    "weight": 70.1,
+    "blood_glucose": 117,
+    "clinical_note": "Mild fatigue reported; advised to continue hydration and rest."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 36.6,
+    "blood_pressure": "124/80",
+    "weight": 70.0,
+    "blood_glucose": 108,
+    "clinical_note": "Signs of continued recovery. No new issues identified."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 36.8,
+    "blood_pressure": "126/82",
+    "blood_glucose": 112,
+    "clinical_note": "Patient stable with consistent improvement. Monitoring to continue."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 97,
+    "heart_rate": 77,
+    "temperature": 36.7,
+    "blood_pressure": "122/78",
+    "weight": 69.9,
+    "blood_glucose": 105,
+    "clinical_note": "Good recovery progress. Mobility and appetite improving steadily."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 36.9,
+    "blood_pressure": "128/83",
+    "weight": 69.8,
+    "clinical_note": "Patient remains stable; no adverse symptoms reported."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 36.8,
+    "blood_pressure": "125/80",
+    "weight": 69.7,
+    "blood_glucose": 110,
+    "clinical_note": "Steady improvement continues. Patient compliant with care plan."
+  },
+  {
+    "date": "2025-01-14",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "blood_pressure": "120/78",
+    "weight": 69.7,
+    "blood_glucose": 104,
+    "clinical_note": "Patient nearing full recovery. Discharge planning initiated."
+  },
+  {
+    "date": "2025-01-15",
+    "oxygen_saturation": 97,
+    "heart_rate": 74,
+    "temperature": 36.6,
+    "blood_pressure": "118/76",
+    "weight": 69.6,
+    "blood_glucose": 102,
+    "clinical_note": "Patient cleared for discharge. Vitals stable and recovery complete."
+  }
+]

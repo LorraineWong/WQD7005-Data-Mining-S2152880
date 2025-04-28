@@ -1,0 +1,127 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.2,
+    "blood_pressure": "125/80",
+    "weight": 72.5,
+    "blood_glucose": 115,
+    "clinical_note": "Patient stable post-surgery, vitals within normal range. Monitoring for signs of infection or complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 84,
+    "temperature": 37.4,
+    "blood_pressure": "128/82",
+    "weight": 72.4,
+    "blood_glucose": 118,
+    "clinical_note": "Slightly elevated heart rate and temperature. No signs of acute distress. Encouraged mobility and hydration."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "blood_pressure": "126/81",
+    "weight": 72.4,
+    "blood_glucose": 112,
+    "clinical_note": "Vitals improving, oxygen saturation consistent. No fever today. Patient responding well to post-surgical care."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 97,
+    "heart_rate": 78,
+    "temperature": 37.1,
+    "blood_pressure": "122/79",
+    "weight": 72.3,
+    "blood_glucose": 110,
+    "clinical_note": "Patient stable, vitals continue to normalize. Encouraged light ambulation and dietary intake improvement."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 79,
+    "temperature": 37.0,
+    "blood_pressure": "124/80",
+    "weight": 72.2,
+    "clinical_note": "Steady recovery noted, no signs of complications. Patient tolerating oral intake well."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 96,
+    "heart_rate": 81,
+    "temperature": 37.3,
+    "blood_pressure": "127/83",
+    "weight": 72.1,
+    "blood_glucose": 114,
+    "clinical_note": "Mild fluctuations in blood pressure and heart rate. No alarming symptoms observed. Monitoring closely."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 97,
+    "heart_rate": 77,
+    "temperature": 37.1,
+    "blood_pressure": "123/78",
+    "weight": 72.0,
+    "blood_glucose": 109,
+    "clinical_note": "Patient continues to recover well. Mobility and appetite improving steadily."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 37.2,
+    "blood_pressure": "125/81",
+    "weight": 71.9,
+    "clinical_note": "Patient stable with no new symptoms. Encouraged to maintain hydration and light activity."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.5,
+    "blood_pressure": "130/85",
+    "weight": 71.9,
+    "blood_glucose": 120,
+    "clinical_note": "Slightly elevated vitals today, likely related to increased activity. No signs of infection noted."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.1,
+    "blood_pressure": "124/79",
+    "weight": 71.8,
+    "blood_glucose": 112,
+    "clinical_note": "Patient progressing well, no fever or distress. Recovery on track with improved strength and mobility."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "blood_pressure": "122/77",
+    "weight": 71.7,
+    "blood_glucose": 110,
+    "clinical_note": "Patient stable, vitals consistent. No signs of complications. Preparing for discharge planning."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 75,
+    "temperature": 36.9,
+    "blood_pressure": "120/76",
+    "weight": 71.6,
+    "blood_glucose": 108,
+    "clinical_note": "Patient nearing full recovery. Vitals normal, mobility and appetite satisfactory. Monitoring final recovery phase."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 98,
+    "heart_rate": 74,
+    "temperature": 36.8,
+    "blood_pressure": "118/75",
+    "weight": 71.5,
+    "clinical_note": "Patient discharged with stable vitals and no complications. Follow-up care recommended to ensure continued recovery."
+  }
+]

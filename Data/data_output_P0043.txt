@@ -1,0 +1,108 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 82,
+    "temperature": 37.1,
+    "blood_pressure": "128/84",
+    "weight": 72.5,
+    "blood_glucose": 140,
+    "clinical_note": "Patient stable post-surgery. Vitals within acceptable range, mild hyperglycemia noted. Continue monitoring and ensure wound healing progresses."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.4,
+    "blood_pressure": "130/86",
+    "weight": 72.4,
+    "blood_glucose": 145,
+    "clinical_note": "Slight increase in heart rate and temperature. No signs of infection at the surgical site; monitor closely for changes."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 97,
+    "heart_rate": 80,
+    "temperature": 37.0,
+    "blood_pressure": "125/82",
+    "blood_glucose": 138,
+    "clinical_note": "Improvement in vitals. Blood glucose slightly elevated but trending downward. Patient reports mild discomfort at incision site."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "124/80",
+    "weight": 72.3,
+    "blood_glucose": 135,
+    "clinical_note": "Patient showing steady recovery. Vitals stable, and surgical site healing well. Encourage mobility and hydration."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 95,
+    "heart_rate": 85,
+    "blood_pressure": "126/83",
+    "weight": 72.2,
+    "blood_glucose": 142,
+    "clinical_note": "Mild tachycardia noted, likely due to postoperative pain. Blood glucose elevated but manageable. Pain management adjusted."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 96,
+    "heart_rate": 81,
+    "temperature": 36.9,
+    "blood_pressure": "122/80",
+    "weight": 72.1,
+    "blood_glucose": 136,
+    "clinical_note": "Patient continues to recover. Pain under control, no signs of infection. Blood glucose trends improving."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 97,
+    "heart_rate": 79,
+    "temperature": 37.0,
+    "blood_pressure": "120/78",
+    "weight": 72.0,
+    "clinical_note": "Vitals stable, glucose levels nearing normal. Incision site healing appropriately. No complications observed."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 96,
+    "heart_rate": 77,
+    "blood_pressure": "122/81",
+    "weight": 71.9,
+    "blood_glucose": 130,
+    "clinical_note": "Patient demonstrates consistent recovery. Vitals and glucose levels well controlled. Mobilization improving."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 80,
+    "temperature": 36.8,
+    "blood_pressure": "120/78",
+    "weight": 71.8,
+    "blood_glucose": 128,
+    "clinical_note": "Recovery progressing normally. Blood glucose under control, no signs of systemic infection."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 97,
+    "heart_rate": 76,
+    "temperature": 36.7,
+    "blood_pressure": "118/76",
+    "weight": 71.8,
+    "blood_glucose": 125,
+    "clinical_note": "Patient nearing discharge criteria. Vitals stable, incision site healed, and blood glucose levels normalizing."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 36.7,
+    "blood_pressure": "118/76",
+    "weight": 71.7,
+    "blood_glucose": 124,
+    "clinical_note": "Patient stable and showing full recovery. Preparing for discharge with follow-up instructions for outpatient care."
+  }
+]

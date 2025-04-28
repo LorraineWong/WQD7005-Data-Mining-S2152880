@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.2,
+    "blood_pressure": "130/85",
+    "weight": 72.5,
+    "blood_glucose": 105,
+    "clinical_note": "Patient stable post-surgery with good oxygenation and vitals. Pain managed effectively; no signs of complications observed."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 96,
+    "heart_rate": 84,
+    "temperature": 37.1,
+    "blood_pressure": "128/82",
+    "weight": 72.3,
+    "blood_glucose": 108,
+    "clinical_note": "Steady recovery with stable vitals. Mild discomfort reported but improving mobility noted during physical therapy."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 90,
+    "blood_pressure": "132/87",
+    "weight": 72.2,
+    "blood_glucose": 110,
+    "clinical_note": "Slight increase in heart rate; oxygenation remains adequate. Monitoring for signs of post-operative infection."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 97,
+    "heart_rate": 86,
+    "temperature": 37.0,
+    "blood_pressure": "125/80",
+    "weight": 72.0,
+    "blood_glucose": 112,
+    "clinical_note": "Improved oxygen saturation and stable vitals. Patient reports minimal pain and no signs of infection."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "temperature": 37.1,
+    "blood_pressure": "130/84",
+    "weight": 71.9,
+    "blood_glucose": 107,
+    "clinical_note": "Patient progressing well with stable vitals and improved mobility. Appetite remains normal."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 95,
+    "heart_rate": 91,
+    "temperature": 37.3,
+    "blood_pressure": "135/88",
+    "weight": 71.9,
+    "clinical_note": "Slight elevation in heart rate and temperature; no significant concerns but monitoring continues for infection signs."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 96,
+    "heart_rate": 87,
+    "temperature": 37.0,
+    "blood_pressure": "127/81",
+    "weight": 71.8,
+    "blood_glucose": 105,
+    "clinical_note": "Vitals steady and oxygenation remains excellent. Patient demonstrates improved post-surgical functional recovery."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 97,
+    "heart_rate": 83,
+    "temperature": 36.9,
+    "blood_pressure": "122/78",
+    "weight": 71.7,
+    "blood_glucose": 102,
+    "clinical_note": "Patient showing significant improvement; vitals stable with no signs of complications. Mobility and appetite continue to improve."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "temperature": 37.0,
+    "blood_pressure": "124/80",
+    "weight": 71.5,
+    "blood_glucose": 101,
+    "clinical_note": "Patient stable and recovering well. No pain reported and routine monitoring continues."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "blood_pressure": "130/85",
+    "weight": 71.4,
+    "blood_glucose": 103,
+    "clinical_note": "Patient reports mild fatigue but overall recovery remains on track. Monitoring continues for any delayed complications."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 96,
+    "heart_rate": 86,
+    "temperature": 37.1,
+    "blood_pressure": "126/82",
+    "weight": 71.4,
+    "blood_glucose": 100,
+    "clinical_note": "Patient making steady progress with minimal discomfort. Vitals remain stable and oxygenation is satisfactory."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 84,
+    "temperature": 36.8,
+    "blood_pressure": "120/78",
+    "blood_glucose": 98,
+    "clinical_note": "Patient showing marked improvement in clinical status. Appetite and mobility are back to pre-surgical levels."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 97,
+    "heart_rate": 82,
+    "temperature": 37.0,
+    "blood_pressure": "118/76",
+    "weight": 71.3,
+    "blood_glucose": 95,
+    "clinical_note": "Patient clinically stable with excellent recovery progress. Discharge planning initiated pending further observations."
+  }
+]

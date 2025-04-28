@@ -1,0 +1,109 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 95,
+    "heart_rate": 88,
+    "temperature": 37.2,
+    "blood_pressure": "128/82",
+    "weight": 72.5,
+    "blood_glucose": 145,
+    "clinical_note": "Patient stable post-surgery. Vitals within acceptable range, mild hyperglycemia noted."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 96,
+    "heart_rate": 85,
+    "temperature": 36.8,
+    "blood_pressure": "125/80",
+    "weight": 72.4,
+    "blood_glucose": 140,
+    "clinical_note": "Patient stable with slight decrease in weight. No signs of infection or complications."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 94,
+    "heart_rate": 90,
+    "temperature": 37.6,
+    "blood_pressure": "130/85",
+    "blood_glucose": 148,
+    "clinical_note": "Mild fever observed. Monitoring for potential signs of infection; glucose levels remain elevated."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 95,
+    "heart_rate": 87,
+    "blood_pressure": "127/84",
+    "weight": 72.3,
+    "blood_glucose": 142,
+    "clinical_note": "Vitals stable despite elevated glucose. Temperature within normal limits; patient progressing as expected."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 96,
+    "heart_rate": 84,
+    "temperature": 37.0,
+    "blood_pressure": "122/78",
+    "weight": 72.2,
+    "blood_glucose": 135,
+    "clinical_note": "Improved glucose readings and stable vital signs. Patient showing signs of steady recovery."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 94,
+    "heart_rate": 92,
+    "temperature": 37.4,
+    "blood_pressure": "130/86",
+    "weight": 72.1,
+    "blood_glucose": 155,
+    "clinical_note": "Slight tachycardia and elevated glucose noted. Monitoring closely for complications or infection."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 93,
+    "heart_rate": 95,
+    "temperature": 37.8,
+    "blood_pressure": "133/88",
+    "weight": 72.0,
+    "blood_glucose": 160,
+    "clinical_note": "Patient presents mild fever and elevated glucose. Close observation for signs of systemic infection."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 92,
+    "heart_rate": 98,
+    "temperature": 38.2,
+    "blood_pressure": "138/90",
+    "weight": 72.0,
+    "blood_glucose": 165,
+    "clinical_note": "Fever persists with increased heart rate. Initiated empirical antibiotics; glucose management emphasized."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 90,
+    "heart_rate": 102,
+    "temperature": 38.5,
+    "blood_pressure": "140/92",
+    "weight": 72.1,
+    "blood_glucose": 170,
+    "clinical_note": "Signs of systemic infection. Antibiotics continued, and patient monitored for potential sepsis progression."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 91,
+    "heart_rate": 105,
+    "temperature": 38.7,
+    "blood_pressure": "142/94",
+    "blood_glucose": 172,
+    "clinical_note": "Clinical status worsened with ongoing fever and tachycardia. Consideration for ICU transfer if no improvement."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 89,
+    "heart_rate": 110,
+    "temperature": 39.0,
+    "blood_pressure": "145/96",
+    "weight": 72.2,
+    "blood_glucose": 175,
+    "clinical_note": "Condition deteriorating. Patient transferred to ICU for advanced management of sepsis and hemodynamic support."
+  }
+]

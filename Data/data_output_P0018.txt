@@ -1,0 +1,129 @@
+[
+  {
+    "date": "2025-01-01",
+    "oxygen_saturation": 96,
+    "heart_rate": 78,
+    "temperature": 37.2,
+    "blood_pressure": "120/80",
+    "weight": 70.5,
+    "blood_glucose": 110,
+    "clinical_note": "Patient stable and recovering well post-surgery. Vitals within normal limits, no signs of complications."
+  },
+  {
+    "date": "2025-01-02",
+    "oxygen_saturation": 95,
+    "heart_rate": 82,
+    "temperature": 37.4,
+    "blood_pressure": "122/82",
+    "weight": 70.4,
+    "blood_glucose": 112,
+    "clinical_note": "Mild tachycardia noted; temperature slightly elevated but no fever. Recovery progressing as expected."
+  },
+  {
+    "date": "2025-01-03",
+    "oxygen_saturation": 96,
+    "heart_rate": 76,
+    "temperature": 37.1,
+    "blood_pressure": "118/78",
+    "weight": 70.3,
+    "blood_glucose": 108,
+    "clinical_note": "Vitals improved; patient showing steady recovery. No signs of infection or complications."
+  },
+  {
+    "date": "2025-01-04",
+    "oxygen_saturation": 97,
+    "heart_rate": 74,
+    "temperature": 37.0,
+    "blood_pressure": "116/76",
+    "weight": 70.2,
+    "clinical_note": "Patient progressing well; oxygen saturation and heart rate within optimal range. Continued monitoring advised."
+  },
+  {
+    "date": "2025-01-05",
+    "oxygen_saturation": 95,
+    "heart_rate": 80,
+    "blood_pressure": "120/80",
+    "weight": 70.2,
+    "blood_glucose": 114,
+    "clinical_note": "Slight increase in heart rate, blood glucose stable. Patient remains comfortable without signs of distress."
+  },
+  {
+    "date": "2025-01-06",
+    "oxygen_saturation": 96,
+    "heart_rate": 77,
+    "temperature": 37.3,
+    "blood_pressure": "119/78",
+    "weight": 70.1,
+    "blood_glucose": 109,
+    "clinical_note": "Recovery steady, minor fluctuations in temperature observed. Patient tolerating post-operative care well."
+  },
+  {
+    "date": "2025-01-07",
+    "oxygen_saturation": 97,
+    "heart_rate": 73,
+    "temperature": 37.0,
+    "blood_pressure": "115/75",
+    "weight": 70.1,
+    "blood_glucose": 105,
+    "clinical_note": "Patient stable with no signs of complications. Recovery trajectory remains positive."
+  },
+  {
+    "date": "2025-01-08",
+    "oxygen_saturation": 96,
+    "heart_rate": 75,
+    "temperature": 36.9,
+    "blood_pressure": "117/77",
+    "weight": 70.0,
+    "blood_glucose": 106,
+    "clinical_note": "Vital signs within normal range. Patient ambulating with assistance and tolerating diet well."
+  },
+  {
+    "date": "2025-01-09",
+    "oxygen_saturation": 95,
+    "heart_rate": 79,
+    "temperature": 37.2,
+    "blood_pressure": "118/78",
+    "blood_glucose": 111,
+    "clinical_note": "Minor increase in heart rate; no alarming findings. Patient continues to recover steadily."
+  },
+  {
+    "date": "2025-01-10",
+    "oxygen_saturation": 96,
+    "heart_rate": 76,
+    "temperature": 37.0,
+    "blood_pressure": "116/76",
+    "weight": 70.0,
+    "blood_glucose": 108,
+    "clinical_note": "Patient stable and recovery on track. No abnormalities detected during daily monitoring."
+  },
+  {
+    "date": "2025-01-11",
+    "oxygen_saturation": 97,
+    "heart_rate": 74,
+    "temperature": 36.8,
+    "blood_pressure": "114/74",
+    "weight": 69.9,
+    "blood_glucose": 104,
+    "clinical_note": "Patient showing excellent progress. Vitals consistently within optimal ranges, no signs of infection."
+  },
+  {
+    "date": "2025-01-12",
+    "oxygen_saturation": 97,
+    "heart_rate": 72,
+    "temperature": 36.7,
+    "blood_pressure": "112/72",
+    "weight": 69.8,
+    "blood_glucose": 102,
+    "clinical_note": "Recovery nearing completion. Patient comfortable, vitals stable, and preparing for discharge planning."
+  },
+  {
+    "date": "2025-01-13",
+    "oxygen_saturation": 97,
+    "heart_rate": 71,
+    "temperature": 36.6,
+    "blood_pressure": "110/70",
+    "weight": 69.8,
+    "blood_glucose": 101,
+    "clinical_note": "Patient clinically stable, vitals optimal. Discharge planned for the following day if status remains unchanged."
+  }
+]
