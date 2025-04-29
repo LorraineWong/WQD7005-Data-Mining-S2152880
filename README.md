@@ -1,4 +1,4 @@
-# 📊 WQD7005 – Data Mining 
+# 📊 WQD7005 – Data Mining | AI-Assisted Patient Monitoring and Coursework Repository
 
 **Author:** Lorraine Wong (S2152880)  
 **Course:** WQD7005 – Data Mining (Semester 2, 2024/2025)  
@@ -8,35 +8,14 @@
 
 ## 📌 Project Overview
 
-This repository presents an AI-assisted simulation, preprocessing, and analysis pipeline for synthetic inpatient monitoring data.  
-The project leverages Generative AI (GenAI), Large Language Models (LLMs), and Small Language Models (SLMs) to generate clinically realistic data and automate insight extraction.
+This repository contains coursework and project submissions for the WQD7005 Data Mining module at University of Malaya.  
+It includes three main components:
 
-Key tasks include:
-- Simulation of variable-length monitoring data using GPT-4o prompts  
-- Exploratory data analysis (EDA) enhanced by LLM-generated summaries  
-- Intelligent data preprocessing with SLMs/LLMs  
-- Clinical note classification and trend summarization  
-- Visualizations and reporting for insight communication  
+- **Assignment**: AI-assisted patient monitoring project featuring GenAI simulation, EDA, preprocessing, and LLM-based insights.  
+- **Final Project**: Predictive modeling project involving feature engineering, supervised learning models, and evaluation (scope to be confirmed).  
+- **Lab Practices**: Supplementary notebooks for practicing EDA, preprocessing, and model training techniques.
 
----
-
-## 🗂️ Repository Structure
-
-├── Data
-├── ├──data_output_P0001.txt ... P0500.txt
-│── Documents
-│   ├── WQD7005-Ass_v1.docx
-│   │── WQD7005-Project_v1.docx
-│── Notebook
-│   ├── Assignment_patient_data_simulation.ipynb
-│   └── Lab_Practice.ipynb
-│── Preprocess
-│   ├── generate_patient_dataset.csv
-│   ├── preprocessing_generate_patient_dataset.csv
-│   └── patient_summary.csv
-│── Visualization
-│   └── eda_patient_report.html
-├── README.md
+The repository integrates the use of Generative AI (GenAI), Large Language Models (LLMs), and Small Language Models (SLMs) to enhance data simulation, preprocessing, and analysis workflows.
 
 ---
 
@@ -66,16 +45,6 @@ Key tasks include:
 
 ---
 
-## 📈 Sample Visualizations
-
-> *(Full interactive report available: `Visualization/eda_patient_report.html`)*
-
-- **Monitoring Duration Histogram**
-- **Time-Series Trends of Vital Signs**
-- **Clinical Note Status Label Distribution**
-
----
-
 ## 🔍 Key Files
 
 | File | Description |
@@ -85,6 +54,7 @@ Key tasks include:
 | `patient_summary.csv` | LLMs-generated patient-level summaries |
 | `Assignment_patient_data_simulation.ipynb` | End-to-end notebook (simulation → preprocessing → EDA → LLM analysis) |
 | `eda_patient_report.html` | Auto-generated EDA profiling report |
+| `AI-Assisted Summary Report and Visualization.pdf` | Assignment final report (with figures and findings) |
 | `data_output_Pxxxx.txt` | Raw simulation outputs for each patient (unparsed) |
 
 ---
@@ -98,46 +68,41 @@ Key tasks include:
 - Draft a short AI-assisted summary report (2–3 pages).
 
 > 📎 Document: `Documents/WQD7005-Ass_v1.pdf`  
-> 📎 Notebook: `Notebook/Assignment_patient_data_simulation.ipynb`
+> 📎 Notebook: `Notebook/Assignment_patient_data_simulation.ipynb`  
+> 📎 Report: `Report/AI-Assisted Summary Report and Visualization.pdf`
 
 ---
 
 ### 🚀 Final Project (Due: Week 13) (TBC)
-- Feature engineering via GenAI/LLMs for healthcare datasets.  
-- Build predictive models: Random Forest, XGBoost, Neural Networks, Transformers.  
-- Integrate textual feature extraction and model interpretation using SLMs/LLMs.  
-- Deliver a comprehensive final report (5–7 pages) with performance evaluation.
+- Feature engineering via GenAI/LLMs for healthcare datasets  
+- Build predictive models: Random Forest, XGBoost, Neural Networks, Transformers  
+- Integrate textual feature extraction and model interpretation using SLMs/LLMs  
+- Deliver a comprehensive final report (5–7 pages) with performance evaluation
 
 > 📎 Document: `Documents/WQD7005-Project_v1.pdf`
 
 ---
 
 ### 🧪 Lab Practice
-- Supplementary exercises focused on EDA, preprocessing, model experimentation.  
-- Practice notebooks are not graded but highly recommended for project development.
+- Supplementary exercises focused on EDA, preprocessing, model experimentation  
+- Practice notebooks are not graded but highly recommended for project development
 
 > 📎 Notebook: `Notebook/Lab_Practice.ipynb`
 
 ---
 
-## 📄 Summary Report Access
-
-- Assignment AI-Assisted Summary Report located in `Documents/AI-Assisted Summary Report and Visualization.pdf`
-
----
-
 ## 📎 Notes
 
-- GenAI simulation performed via Azure OpenAI (GPT-4o).  
-- Clinical note classification using Hugging Face `facebook/bart-large-mnli`.  
-- All steps aligned with WQD7005 assignment and project requirements.
+- GenAI simulation performed via Azure OpenAI (GPT-4o)  
+- Clinical note classification using Hugging Face `facebook/bart-large-mnli`  
+- All steps aligned with WQD7005 assignment and project requirements
 
 ---
 
 ## 📬 Contact
 
 **Lorraine Wong**  
-📧 Email: yiting.wong0630@gmail.com
+📧 Email: yiting.wong0630@gmail.com  
 🔗 GitHub: [@LorraineWong](https://github.com/LorraineWong)
 
 ---
