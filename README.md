@@ -68,7 +68,7 @@ The repository integrates the use of Generative AI (GenAI), Large Language Model
 - Draft a short AI-assisted summary report (2–3 pages).
 
 > 📎 Document: `Documents/WQD7005-Ass_v1.pdf`  
-> 📎 Notebook: `Notebook/Assignment_patient_data_simulation.ipynb`  
+> 📎 Notebook: `Notebook/Assignment_patient_data_simulation_clear_output.ipynb.ipynb`  
 > 📎 Report: `Report/AI-Assisted Summary Report and Visualization.pdf`
 
 ---
